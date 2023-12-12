@@ -26,4 +26,4 @@ Student_Model_Attention.ipynb
 > 
 > Please see Evaluation part.
 > 
-> The accuracy that [generated QE tokens from student model] vs [QE score for student translations] in test data is 0.439, which is not very good but better than guessing. (5 categories)
+> The accuracy that [generated QE tokens from student model] vs [QE score for student translations] in test data is 0.236, which is very low, only a little better than guessing. (5 categories)
